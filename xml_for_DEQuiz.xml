@@ -1,0 +1,42 @@
+<students>
+	<student1>
+		<name>Anshul Sharma</name>
+		<age>20</age>
+		<gender>Male</gender>
+		<branch>CCE</branch>
+		<semester>6</semester>
+		<attendance>87%<attendance>
+	</student1>
+	<student2>
+		<name>Akshita Poonia</name>
+		<age>19</age>
+		<gender>Female</gender>
+		<branch>CCE</branch>
+		<semester>6</semester>
+		<attendance>91%<attendance>
+	</student2>
+	<student3>
+		<name>Anushka Pandey</name>
+		<age>20</age>
+		<gender>Female</gender>
+		<branch>CCE</branch>
+		<semester>6</semester>
+		<attendance>91%<attendance>
+	</student3>
+	<student4>
+		<name>Apoorva Tiwari</name>
+		<age>20</age>
+		<gender>Female</gender>
+		<branch>CCE</branch>
+		<semester>6</semester>
+		<attendance>77%<attendance>
+	</student4>
+	<student5>
+		<name>Angad Bawa</name>
+		<age>20</age>
+		<gender>Male</gender>
+		<branch>CCE</branch>
+		<semester>6</semester>
+		<attendance>77%<attendance>
+	</student5>
+</students>
